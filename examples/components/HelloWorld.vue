@@ -16,8 +16,8 @@ export default {
   methods: {
     hintToolTip ($event) {
       this.$toolTip($event, {
-          content: "这是一个toolTip",
-          direction: "top",
+          content: "这是一个toolTip1",
+          direction: "top"
       });
     },
     hintMessge ($event) {
