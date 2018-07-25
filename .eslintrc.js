@@ -21,6 +21,12 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
+    "quotes":0,
+    "semi":0,
+    "arrow-parens":0,
+    "indent": 0,
+    "linebreak-style": [0, "windows"],
+    'comma-dangle': ["error", "always"]
     // allow async-await
     'generator-star-spacing': 'off',
     // allow debugger during development

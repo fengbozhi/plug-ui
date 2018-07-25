@@ -1,7 +1,8 @@
 {
   "name": "plug-ui",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "main": "./src/index.js",
+  "description": "A Vue.js message hint",
   "author": "fengbozhi <P>",
   "private": true,
   "scripts": {
