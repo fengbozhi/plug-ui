@@ -26,7 +26,8 @@ module.exports = {
     "arrow-parens":0,
     "indent": 0,
     "linebreak-style": [0, "windows"],
-    'comma-dangle': ["error", "always"]
+    'comma-dangle': 'off',
+    'new-cap': 'off',
     // allow async-await
     'generator-star-spacing': 'off',
     // allow debugger during development

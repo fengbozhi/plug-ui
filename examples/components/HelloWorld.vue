@@ -1,7 +1,7 @@
 <template>
     <div>
        <button @mouseover="hintToolTip">toolTip</button>
-       <button @mouseover="hintMessge">提示</button>
+       <button @click="hintMessge">提示</button>
     </div>
 </template>
 
