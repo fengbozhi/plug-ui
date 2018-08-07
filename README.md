@@ -1,6 +1,7 @@
 # plug-ui
 
-> 基于vue2.x，可复用UI组件 [在线预览]([https://fengbozhi.github.io/plug-ui/dist/index.html#/]{:target="_blank"})   [文档地址]([https://fengbozhi.github.io/plug-ui/#/]{:target="_blank"})
+> 基于vue2.x，可复用UI组件 <a href="https://fengbozhi.github.io/plug-ui/dist/index.html#/" target="_blank">在线预览</a> <a href="https://fengbozhi.github.io/plug-ui/#/" target="_blank">文档地址</a>
+
 
 ## 安装
 
