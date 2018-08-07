@@ -15,13 +15,13 @@ export default {
   },
   methods: {
     hintToolTip ($event) {
-      this.$toolTip($event, {
+      this.$plugToolTip($event, {
           content: "这是一个toolTip1",
           direction: "top"
       });
     },
     hintMessge ($event) {
-      this.$message({
+      this.$plugMessage({
           message: '这是一个message',
           time: 3000
         })

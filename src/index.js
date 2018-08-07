@@ -10,8 +10,8 @@ const install = function (Vue, opts = {}) {
     components.map(component => {
         Vue.component(component.name, component)
     })
-    Vue.prototype.$toolTip = ToolTip.installToolTip
-    Vue.prototype.$message = Message.installMessage
+    Vue.prototype.$plugToolTip = ToolTip.installToolTip
+    Vue.prototype.$plugMessage = Message.installMessage
 }
 
 if (typeof window !== 'undefined' && window.Vue) {
